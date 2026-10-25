@@ -47,7 +47,7 @@
         </p>
       </td>
       <td valign="top" width="32%" align="right">
-        <img src="assets/book.gif" width="240" style="border-radius:12px;"><br><br>
+        <img src="assets/reze.jpeg" width="240" style="border-radius:12px;"><br><br>
         <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=beamMiter&layout=compact&langs_count=6&theme=transparent&hide_border=true&v=2"
           width="240"
         >
@@ -81,7 +81,7 @@
   </tr>
   <tr>
     <td align="center">2021 - Present</td>
-    <td align="center"><img src="assets/Rambhai_Barni_Rajabhat_University_Emblem.png" height="50"></td>
+    <td align="center"><img src="assets/rbru_logo.png" height="50"></td>
     <td>B.Sc. in Information Technology (Undergraduate)</td>
     <td>Rambhai Barni Rajabhat University (RBRU), Faculty of Science and Technology</td>
   </tr>
@@ -130,4 +130,3 @@
   <br /><br />
 </div>
 <br />
-<a href="https://portfoliotechindev.vercel.app" target="_blank"><img width="100%" src="assets/black-white.gif" alt="Thank you for reading" /></a>
