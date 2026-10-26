@@ -92,9 +92,9 @@
     <td>Phrapokklao Hospital (PPK), Chanthaburi</td>
   </tr>
   <tr>
-    <td align="center">2027 - Present</td>
+    <td align="center">Plan to</td>
     <td align="center"><img src="assets/tu_logo.png" height="50"></td>
-    <td>Master's Degree in Software Engineering (Postgraduate)</td>
+    <td>Master's Degree in Software Engineering</td>
     <td>Thammasat University (TU), Faculty of Computer Science</td>
   </tr>
   <tr>
